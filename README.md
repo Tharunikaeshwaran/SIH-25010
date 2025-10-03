@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03.10.25
+## Register Number:25015910
+## Name:Tharunika
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -79,15 +79,32 @@ expand the solutions across multiple villages and regions
 <li>Strategies for overcoming these challenges</li></ul>
 
 ## Impact and Benefits
+<<<<<<< HEAD
 <h3>efficient use of water,fertilizers and energy
 Sensors and ai help detect issues before they spread
 farmers can plan sowing,harvesting and sales based on real time data
 Monitoring ensures healthier,pest free,and high nutrition crops
 </h3>
+=======
+<h3>Impact and Benefits
+efficient use of water,fertilizers and energy
+Sensors and ai help detect issues before they spread
+farmers can plan sowing,harvesting and sales based on real time data
+Monitoring ensures healthier,pest free,and high nutrition crops</h3>
+>>>>>>> 24e77fb018dee9f4708914aefc4efbaa1c1d63a0
 <ul><li>Potential impact on the target audience</li>
 <li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
 
 ## Research and References
+<<<<<<< HEAD
 <h3>https://m.farms.com/agriculture-apps/
 </h3>
+=======
+<h3>Scholarly foundations
+https://m.farms.com/agriculture-apps/
+Informed by global studies,tailored to local
+transparent tracking of produce farm to market
+grounding in reasearch designed for real world impact
+a foundation of scholarly rigor supporting every technical</h3>
+>>>>>>> 24e77fb018dee9f4708914aefc4efbaa1c1d63a0
 <ul><li>Details / Links of the reference and research work</li></ul>
