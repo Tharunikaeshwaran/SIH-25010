@@ -41,28 +41,53 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
+<h3>Smart farming,Strong villages
+Real time soil
+weather monitoring
+farm management
+digital marketplace
+drone & aerial surveliance
+ecofriendly practices
+![alt text](image.png)
+</h3>
 <ul><li>Detailed explanation of the proposed solution</li>
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></ul>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
+<h3>Smart soil
+Technical approach are used for languages such as(Python,c++,arduino)
+data management languages are used for(SQL,NoSQL,MongoDB,firebase)
+data ai models languages are used for python(pandas,Numpy,scikit-learn)
+Mobile applications languages are used for(Java,swift[iOS],javascript)
+Visualization languages are used for (Python,Javascript)
+alt text
+</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
 </li>
 <li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
+<h3>Viability insights
+Sustainable use of water,soil,and energy resourses
+Potential for higher yield and better farmer income
+improvement in community well being,literacy and employment
+expand the solutions across multiple villages and regions
+</h3>
 <ul><li>Analysis of the feasibility of the idea</li>
 <li>Potential challenges and risks</li>
 <li>Strategies for overcoming these challenges</li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
+<h3>efficient use of water,fertilizers and energy
+Sensors and ai help detect issues before they spread
+farmers can plan sowing,harvesting and sales based on real time data
+Monitoring ensures healthier,pest free,and high nutrition crops
+</h3>
 <ul><li>Potential impact on the target audience</li>
 <li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
+<h3>https://m.farms.com/agriculture-apps/
+</h3>
 <ul><li>Details / Links of the reference and research work</li></ul>
