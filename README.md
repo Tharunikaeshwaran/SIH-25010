@@ -48,11 +48,11 @@ farm management
 digital marketplace
 drone & aerial surveliance
 ecofriendly practices
-Screenshot 2025-10-03 134725.png
 </h3>
 <ul><li>Detailed explanation of the proposed solution</li>
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></ul>
+![alt text](image.png)
 
 ## Technical Approach
 <h3>Smart soil
