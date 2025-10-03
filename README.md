@@ -48,7 +48,7 @@ farm management
 digital marketplace
 drone & aerial surveliance
 ecofriendly practices
-![alt text](image.png)
+Screenshot 2025-10-03 134725.png
 </h3>
 <ul><li>Detailed explanation of the proposed solution</li>
 <li>How it addresses the problem</li>
